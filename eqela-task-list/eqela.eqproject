@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Eqela Task List
+#
+
+projectname: Eqela Task List
+vendorid: com.acmazing
+mainmodule: com.acmazing.eqelatasklist
